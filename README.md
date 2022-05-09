@@ -1,4 +1,6 @@
 # Robot-video-maker
+![GitHub](https://img.shields.io/github/license/rafix923/robot-video-maker-project?color=blue)
+
 Open source project to program bots to make videos.
 
 
