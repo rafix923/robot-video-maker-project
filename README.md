@@ -13,13 +13,13 @@ As a complete beginner, I had to study the basics of git and git hub. I accompli
 Note: I will start my fullstack course in march, 28. So, studying how to use git and github will be usefull in this course!
 
 march, 10th
-Started to study how watson works. The mainly source of infomratiion was the IBM site. There I also found some interesting classes about artificial intelligence, and how to make a chat bot. Important to mention that the courses are totally free and they have an excellente course catolog. 
+Started to study how watson works. The mainly source of information was the IBM site. There I also found some interesting classes about artificial intelligence, and how to make a chat bot. Important to mention that the courses are totally free and they have an excellente course catolog. 
 
 # Scopes and Tasks
 
 - [x] Stipulate scopes and tasks
 - [x] Learn how to use git and GitHub
-- [ ] Learn what is Watson and how does it work
+- [x] Learn what is Watson and how does it work
 - [ ] Instal Node.Js
 - [ ] Create an access key in Algorithmia
 - [ ] Create Watson credential
